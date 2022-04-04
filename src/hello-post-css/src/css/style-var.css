@@ -1,0 +1,2 @@
+$writing-mode: vertical-rl;
+body { writing-mode: $writing-mode; }
